@@ -1,4 +1,4 @@
-# 🛍️ DevClub Store — Vitrine Interativa de Produtos
+# DevClub Store — Vitrine Interativa de Produtos
 
 Vitrine de produtos com carrossel automático, animações e layout responsivo, desenvolvida com **HTML5, CSS3 e JavaScript puro**. Projeto criado a partir de uma aula do **Rodolfo Mori (DevClub)** e usado para praticar os fundamentos do Front-End: manipulação do DOM, eventos, animações e responsividade.
 
